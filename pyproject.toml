@@ -34,7 +34,7 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/masonthompsen/security-tools-portfolio"
+Repository = "https://github.com/mthompsen/security-tools-portfolio"
 
 # ---------------------------------------------------------------------------
 # Ruff configuration (linter + formatter)

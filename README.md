@@ -1,6 +1,6 @@
 # Security Tools Portfolio
 
-[![CI](https://github.com/masonthompsen/security-tools-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/masonthompsen/security-tools-portfolio/actions/workflows/ci.yml)
+[![CI](https://github.com/mthompsen/security-tools-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/mthompsen/security-tools-portfolio/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -29,7 +29,7 @@ Each tool is intentionally limited in scope. They are not replacements for `grep
 
 ```bash
 # Clone the repo
-git clone https://github.com/masonthompsen/security-tools-portfolio.git
+git clone https://github.com/mthompsen/security-tools-portfolio.git
 cd security-tools-portfolio
 
 # Run any tool directly (no installation needed - standard library only)
